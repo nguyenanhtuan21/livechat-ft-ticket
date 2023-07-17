@@ -12,7 +12,7 @@ export default {
     };
   },
   created() {
-    console.log(123);
+    console.log(124443);
     embedPopup()
   },
   methods: {

@@ -61,7 +61,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Community</template>
 
-    Got stuck? Ask your question on
+    Got stuck? Ask your question on  dsfsdfdsf sddfsdfsdf
     <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Vue Land</a>, our official
     Discord server, or
     <a href="https://stackoverflow.com/questions/tagged/vue.js" target="_blank" rel="noopener"
